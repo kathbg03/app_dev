@@ -2,6 +2,7 @@
 My first repository
 # Alice in Borderline
 **Main Characters**
+
 *Ryōhei Arisu (Kento Yamazaki)*
 
 *Yuzuha Usagi (Tao Tsuchiya)*
