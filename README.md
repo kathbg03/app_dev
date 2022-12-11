@@ -1,2 +1,22 @@
 # app_dev
 My first repository
+# Alice in Borderline
+**Main Characters**
+*Ryōhei Arisu (Kento Yamazaki)*
+A youthful gamer outcasted by his own family due to his less than par performance in life, central protagonist Arisu struggles to find a purpose in his waking life. But when thrown into the alternate Tokyo Borderland, Arisu lives on and survives game after game on behalf of his two best friends Chōta Segawa (Yūki Morinaga) and Daikichi Karube (Keita Machida) who died during their third game, Hide and Seek. Arisu is crafty under pressure, and core memories of himself with Chota and Karube ignite a new passion within as he plays each game.
+*Yuzuha Usagi (Tao Tsuchiya)*
+Well known for an early modeling career and a lengthy resume in a variety of roles on stage and in film, Tao Tsuchiya breathes life into the role of Yuzuha Usagi. With glimpses into her real-world life as a rock climber and high-spirited individual, Usagi plays with keen wit and determination to survive and savor the little things in the Tokyo Borderland. When introduced to Arisu, a kindled friendship offers a joint safety net as they trial the games together.
+*Takeru Danma / Hatter (Nobuaki Kaneko)*
+akeru Danma delivers a tortured embodiment of the original Mad Hatter character all in the world of Tokyo Borderland’s constantly compounding chaos. Danma worked to create paradise, viewing his teleportation into Borderland as a fresh beginning for everyone there. To cope, he built upon his own selfish fantasy known as The Beach, a place untouched by the external bitterness and betrayal of the Borderland world. He ultimately deals with the consequences of maintaining The Beach even at the cost of life itself.
+*Aguni Morizono (Sho Aoyagi)*
+Revealed to be the best friend of Hatter, Morizono, played by Sho Aoyagi, does a stellar job at being the muscle aided by a deranged crew of blood-thirsty ghouls invoking terror through the Beach as soon as an unexpected death destroys the order of their paradise. Caught in the cross of the ultimate deception, Morizono comes to many realizations, too little too late. Aoyagi amplifies the mania of Borderland as his character capitalizes off of grisly murder tactics and methods to evaluate the game as ruthlessly as possible.
+*Mira Kano (Riisa Naka)*
+Kano is one of an unknown collective of game masters, responsible for the teleportation of victims into Borderland as well as the orchestration of the games, Kano’s personality and intentions are shrouded in an enigma that unravels towards the end of the season. Her uncomfortable out-of-place giggles and piercing sincerity when delivering words of sheer horror do well to unnerve many, if not all who reside in Borderland.
+*Shuntarō Chishiya (Nijirō Murakami)*
+Chishiya is a more laid-back alternate to Alice in Wonderland’s white rabbit. Instead of hustling and bustling to the Queen’s court, Chishiya has his eyes set on collecting all of the cards from each game in the hopes to escape or potentially gain power with the game masters. Nijirō Murakami offers a sly touch to Chishiya’s quiet observing and meticulous commanding of authority amongst the Beach and throughout the games. His style of all white and silver stands out in addition to his quick-witted attacks.
+*Hikari Kuina (Aya Asahina)*
+ Hikari Kuina is a diamond in the rough. Her father disowning her transgender identity does little to stop her from carrying her head high while augmenting her skills as a trained fighter. Such skills come in handy during a devastating night at the Beach, and she is fortunate to find her best friend, Chishiya, as they join Arisu and Ugasi in searching Borderland for answers to their entrapment.
+*Ann Rizuna (Ayaka Miyoshi)*
+ Ann Rizuna, a former forensic scientist for Tokyo police forces, cautiously plays her skills to the advantage of the remaining Beach players. Keeping an urgent manner about handling business at the Beach, while showcasing a serene nature during life-altering moments during certain games, Ann manages to survive the Borderland games and establish a powerful position at the Beach as an executive member. 
+**Plot**
+Ryohei Arisu (Kento Yamazaki) is an unemployed young man, whose life has not been very happy. One day, a mysterious light appears and, afterwards. everybody disappears except for Ryohei Arisu and his two friends. Tokyo is completely empty. Ryohei Arisu and his two friends are forced to take part in a survival game with their lives at stake. There, Ryohei Arisu meets Yuzuha Usagi (Tao Tsuchiya).
